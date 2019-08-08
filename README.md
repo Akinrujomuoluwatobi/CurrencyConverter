@@ -14,3 +14,5 @@ The Project Implement a number of dependencies which Include
 * Room 
 ## Architecture
 * MVP (Model - View - Presenter) Architecture
+## Download APP
+<a href="app/release/CurrencyConverter.apk">Click Here</a>
