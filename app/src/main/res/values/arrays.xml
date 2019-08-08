@@ -17,7 +17,6 @@
         <item>BGN</item>
         <item>BHD</item>
         <item>BIF</item>
-        <item>AFN</item>
         <item>BMD</item>
         <item>BND</item>
         <item>BOB</item>
@@ -150,8 +149,10 @@
         <item>TWD</item>
         <item>TZS</item>
         <item>UAH</item>
+        <item>USD</item>
         <item>UGX</item>
         <item>UZS</item>
+        <item>UYU</item>
         <item>VEF</item>
         <item>VND</item>
         <item>VUV</item>
