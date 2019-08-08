@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="currency_calculator">Currency</string>
+    <string name="calculator">Calculator</string>
+    <string name="eur">EUR</string>
+    <string name="usd">USD</string>
+    <string name="convert">Convert</string>
+    <string name="api_key">898e93d4fcc95176dbba95897b3d2483</string>
+
+</resources>
